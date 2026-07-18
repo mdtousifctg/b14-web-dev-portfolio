@@ -94,6 +94,10 @@ ul li a{
 .hero-left-btn-parent {
     margin-top: 8px;
 }
+.hero-right {
+    background-image: url(./images/header_bg.png);
+}
+
 /* about me css */
 .about-parent {
     background-color: #fff8f3 ;
